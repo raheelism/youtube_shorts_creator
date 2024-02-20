@@ -1,1 +1,1 @@
-## YouTube Shorts Creator - Automate & Monetize your Videos
+## YouTube Shorts Creator - Background Videos
