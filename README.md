@@ -1,4 +1,4 @@
-# Youtibe Shorts Video Creator
+# Youtube Shorts Video Creator
 ## YouTube Shorts Creator - Automate & Monetize your Videos
 
 **Create engaging YouTube Shorts in minutes with this Python script.**
